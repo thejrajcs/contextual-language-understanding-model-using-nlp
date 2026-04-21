@@ -3,6 +3,7 @@ import torch
 from typing import Dict, List, Union, Tuple
 import numpy as np
 
+# Ensure that the necessary libraries are installed
 class TextAnalyzer:
     def __init__(self):
         """Initialize text analysis pipelines."""
